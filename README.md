@@ -1,11 +1,9 @@
 
 <div align="center">
 
-## Python 　　　　　　　　　　　　　Java
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsduf9160)](https://solved.ac/wnsdu9160)　 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsduf428)](https://solved.ac/wnsduf428)
+|Python|Java|
+|:---:|:---:|
+|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsduf9160)](https://solved.ac/wnsdu9160)|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsduf428)](https://solved.ac/wnsduf428)|
 
   
   # 🔎 Skills
